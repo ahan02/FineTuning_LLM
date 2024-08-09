@@ -1,4 +1,4 @@
-# fine_tuning_LLM
+# Finetuning LLM
 
-Lab exercise Finetuning_LLM
+Lab exercise from DeepLearning.AI class, Finetuning_LLM
 from https://www.deeplearning.ai/short-courses/finetuning-large-language-models/
